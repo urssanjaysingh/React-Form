@@ -1,6 +1,6 @@
 # React Form with Authentication and Authorization - urssanjaysingh/React-Form
 
-Welcome to the GitHub repository for the React Form project with authentication and authorization - urssanjaysingh/React-Form!
+Welcome to the GitHub repository for the React Registation & Login Form project with authentication and authorization - urssanjaysingh/React-Form!
 
 ## Overview
 
