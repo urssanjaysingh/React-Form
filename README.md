@@ -57,4 +57,4 @@ urssanjaysingh welcomes contributions to this project! If you find a bug, have a
 
 If you have any questions or need further assistance, you can reach out to urssanjaysingh via email at sanjaysingh26112000@gmail.com.
 
-Thank you for visiting this repository, and happy form building with React, authentication, and authorization!
+Thank you for visiting this repository, and happy form building with React, authentication, and authorization! :)
